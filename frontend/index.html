@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wiener Linien Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1 id="departuresTitle">Live Departures</h1>
+
+    <label id="stopSelectLabel" for="stopSelect">Select Stop (Press "e" to hide):</label>
+    <select id="stopSelect"></select>
+    <p id="updateMsg">Updating...</p>
+    <div id="backendWarning" style="display:none;" class="warning">
+        Data source offline, waiting for backend ...
+    </div>
+
+
+    <table class="departures">
+    <thead>
+        <tr>
+        <th>Line</th>
+        <th>Destination</th>
+        <th>Departure</th>
+        <th>Planned</th>
+        </tr>
+    </thead>
+    <tbody id="departuresContainer">
+        <tr><td colspan="4"> Waiting for data source ... </td></tr>
+    </tbody>
+    </table>
+
+    
+    <h3>Traffic Information</h3>
+    <div id="traffic"></div>
+
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

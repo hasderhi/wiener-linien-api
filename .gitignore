@@ -1,0 +1,12 @@
+# python
+/backend/__pycache__/
+
+# data files
+# as I do not own the data, I chose to not provide it here
+# please see the readme on how to aquire the required data
+/backend/data/stops_clean.json
+/backend/data/stops_grouped.json
+/backend/data/wienerlinien-ogd-fahrwegverlaeufe.csv
+/backend/data/wienerlinien-ogd-haltepunkte.csv
+/backend/data/wienerlinien-ogd-haltestellen.csv
+/backend/data/wienerlinien-ogd-linien.csv
