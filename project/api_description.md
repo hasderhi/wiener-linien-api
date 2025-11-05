@@ -4,19 +4,19 @@
 
 [From data.gv.at, as of November 4th 2025](https://www.data.gv.at/datasets/522d3045-0b37-48d0-b868-57c99726b1c4)
 
-"Die Abfrage der Echtzeitdaten der Wiener Linien unterliegt einem Fair Use-Prinzip 
-nach den folgenden Regeln: Es sind möglichst nur jene Haltepunkte abzufragen, welche 
-für eine persönliche Beauskunftung notwendig sind. Das Intervall der Abfragen sollte 15 Sekunden 
-nicht unterschreiten. Die Wiener Linien behalten sich vor, 
+"Die Abfrage der Echtzeitdaten der Wiener Linien unterliegt einem Fair Use-Prinzip
+nach den folgenden Regeln: Es sind möglichst nur jene Haltepunkte abzufragen, welche
+für eine persönliche Beauskunftung notwendig sind. Das Intervall der Abfragen sollte 15 Sekunden
+nicht unterschreiten. Die Wiener Linien behalten sich vor,
 bei Verstoß gegen diese Fair Use-Regeln die IP-Adresse zu blockieren."
 
 English translation:
 
-"The retrieval of real-time data from Wiener Linien is subject to a fair use principle 
-in accordance with the following rules: Where possible, only those stops that 
-are necessary for personal information should be queried. 
+"The retrieval of real-time data from Wiener Linien is subject to a fair use principle
+in accordance with the following rules: Where possible, only those stops that
+are necessary for personal information should be queried.
 The interval between queries should not be less than 15 seconds.
-Wiener Linien reserves the right to block the IP address in the 
+Wiener Linien reserves the right to block the IP address in the
 event of a violation of these fair use rules."
 
 TL;DR:
