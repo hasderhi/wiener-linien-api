@@ -110,6 +110,11 @@ To quit, press `CTRL+C` in the terminal, then close the browser tab.
 
 [Information page about Open Data - wienerlinien.at](https://www.wienerlinien.at/open-data)
 
+## Author
+
+Annabeth Kisling
+[annabeth@tk-dev-software.com](annabeth@tk-dev-software.com)
+
 ## License and Disclaimer
 
 This project is released under the MIT License (see `license.md`). I do not own or provide any transport data, nor am I responsible for misuse of the API. Please follow the API fair-use guidelines.
