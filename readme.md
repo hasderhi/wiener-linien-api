@@ -114,7 +114,7 @@ To quit, press `CTRL+C` in the terminal, then close the browser tab.
 
 Annabeth Kisling
 
-[annabeth@tk-dev-software.com](annabeth@tk-dev-software.com)
+[annabeth@tk-dev-software.com](mailto:annabeth@tk-dev-software.com)
 
 ## License and Disclaimer
 
