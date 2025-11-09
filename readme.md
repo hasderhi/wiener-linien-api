@@ -113,6 +113,7 @@ To quit, press `CTRL+C` in the terminal, then close the browser tab.
 ## Author
 
 Annabeth Kisling
+
 [annabeth@tk-dev-software.com](annabeth@tk-dev-software.com)
 
 ## License and Disclaimer
