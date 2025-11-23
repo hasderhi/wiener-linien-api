@@ -100,7 +100,7 @@ To quit, press `CTRL+C` in the terminal, then close the browser tab.
 
 ## Links
 
-[Data source for the CSV files - data.gv.at](https://www.data.gv.at/datasets/522d3045-0b37-48d0-b868-57c99726b1c4)
+[Data source for the CSV files - data.gv.at](https://www.data.gv.at/datasets/cfba4373-a654-3e0b-80f8-348738169f95)
 
 [Explanation what the RBL does - strassenbahnjournal.at](https://strassenbahnjournal.at/wiki/index.php?title=RBL)
 

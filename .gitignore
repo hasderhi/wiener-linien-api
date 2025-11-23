@@ -1,6 +1,9 @@
 # python
 /backend/__pycache__/
 
+# dev
+/frontend-2/
+
 # data files
 # as I do not own the data, I chose to not provide it here
 # please see the readme on how to aquire the required data
