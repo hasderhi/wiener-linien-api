@@ -63,7 +63,7 @@ The frontend (`frontend/`) consists of vanilla HTML, CSS, and JavaScript. It cal
 All software in this repo *should* work on any OS. If something doesn’t work, feel free to [contact me](https://tk-dev-software.com#contact).
 
 1. Clone the repo and install the dependencies from `requirements.txt`
-2. Download the 4 CSV files from [data.gv.at](https://www.data.gv.at/datasets/522d3045-0b37-48d0-b868-57c99726b1c4)  
+2. Download the 4 CSV files from [data.gv.at](https://www.data.gv.at/datasets/cfba4373-a654-3e0b-80f8-348738169f95)  
    - "Distributionen" tab  
    - Download:
      - `wienerlinien-ogd-fahrwegverläufe.csv`
