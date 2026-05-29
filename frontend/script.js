@@ -110,7 +110,7 @@ function displayDepartures(data) {
 		return `
     <tr>
       <td><span class="line-badge" style="background:${color};">${dep.line}</span></td>
-      <td>Direction ${dep.direction.trim()}${wheelchair}</td>
+      <td>Towards ${dep.direction.trim()}${wheelchair}</td>
       <td><span class="countdown">${dep.countdown}</span> min</td>
       <td>${new Date(dep.planned).toLocaleTimeString("de-AT", { hour: "2-digit", minute: "2-digit" })}</td>
     </tr>
